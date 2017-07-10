@@ -59,9 +59,3 @@ a, a:focus, a:hover, a:active{
 	text-align: left;
 	padding: 20px 0 20px 0;
 }
-.row-eq-height {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display:         flex;
-}
