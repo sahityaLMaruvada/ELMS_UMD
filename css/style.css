@@ -57,6 +57,7 @@ a, a:focus, a:hover, a:active{
 	margin:auto;
 	width: 51%;
 	text-align: left;
+	padding: 20px 0 20px 0;
 }
 .row-eq-height {
   display: -webkit-box;
